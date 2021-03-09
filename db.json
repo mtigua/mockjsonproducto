@@ -3,5 +3,19 @@
     {"id":1,"nombre":"SEGUROS DE VIDA LA CONSTRUCCION"},
     {"id":4,"nombre":"SEG. GENERALES SURAMERICANA"},
     {"id":5,"nombre":"CHUBB CHILE SEGUROS GENERALES"}
+  ],
+  "negocios" :[
+    {"id":1,"nombre":"LINEAS PERSONALES"},
+    {"id":4,"nombre":"ESCOLAR"},
+    {"id":5,"nombre":"ASESORIA EN MATERIA LEGALES"}
+  ],
+  "ramos" :[
+    {"id":1,"nombre":"VEHICULOS"},
+    {"id":4,"nombre":"HOGAR"},
+    {"id":5,"nombre":"ACCIDENTES PERSONALES"}
+  ],
+  "tiposDeCompanias" :[
+    {"id":1,"nombre":"TRADICIONAL"},
+    {"id":4,"nombre":"FINANCIERO"}
   ]
 }
