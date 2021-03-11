@@ -14,7 +14,7 @@
     {"id":2,"nombre":"HOGAR"},
     {"id":3,"nombre":"ACCIDENTES PERSONALES"}
   ],
-  "tiposDeCompanias" :[
+  "tiposeguros" :[
     {"id":1,"nombre":"TRADICIONAL"},
     {"id":2,"nombre":"FINANCIERO"}
   ]
